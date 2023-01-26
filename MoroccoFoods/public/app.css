@@ -1,0 +1,31 @@
+
+:root {
+
+
+    --clr-grn-light:#74F547;
+    --clr-grn-normal:#5cc23a;
+    --clr-grn-dark:#37851b;
+
+    --clr-bg-lightes:#faf885a6;
+    --clr-bg-light:#e9be3d;
+    --clr-bg-normal:#c7a53f;
+    --clr-bg-dark:#64591a;
+
+    --clr-salmon:#F08080;
+    --clr-salmon-light:#f8a584;
+
+
+    /* fonts  */
+    
+    --font-fml-bold:var(font-family:'Varela Round', sans-serif);
+    --font-fml-style:var(font-family: 'Merienda', cursive);
+    --font-fm-normal:var(font-family: 'Finlandica', sans-serif;);
+
+
+}
+
+
+img{
+    height: 100px;
+    width: 100px;
+}
